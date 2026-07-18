@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "165240917333",
+    "project_id": "infoar-final",
+    "storage_bucket": "infoar-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165240917333:android:c714557463559b2409f3dc",
+        "android_client_info": {
+          "package_name": "com.utp.parcial2_proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165240917333-k0ktfqvtmc5nkotm2ntl01lt36aq975k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utp.parcial2_proyecto",
+            "certificate_hash": "a4c259b519b6dd50565b1ddba139ec5286cfd492"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7H-chghKA_aXGwMTj_MkI2Dx5_S1AWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
